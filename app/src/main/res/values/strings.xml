@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Conundrum</string>
+    <string name="facebook_app_id">462505624214466</string>
+    <string name="fb_login_protocol_scheme">fb462505624214466</string>
 </resources>
